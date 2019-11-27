@@ -1,0 +1,11 @@
+{
+    "Success": true,
+    "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1Nzc1MDUyOTIsImlzcyI6ImRwbSIsInN1YiI6Imphem1pbmV3cm9vbWFuQGhvdG1haWwuY29tIn0.U6EvcTmkCSDcgteqF6TgFq_wxUjLANGth_uPf0GTM20",
+    "Permissions": "",
+    "IsPrivacyPolicyAccepted": true,
+    "MetaData": {
+        "Affiliation": "bayer",
+        "AssignedAreas": "Area-4220b889142a4bee8e18762af55e8431,Area-ab4eb4f9f2e74d929fce52039eacc53e,Area-88abb8cea39442beac6c1bb7b426399e,Area-0,Area-7d89ab0eaa9b4105aee45782708ded63,Area-0aafa665df1442ddb20b50f24f35d1fa,Area-9fefac85d1a645e2b17b9915614495a4,Area-71dc14170c854102a3227bc9f8ebf050,Area-ac70060572ed4fceb8148fcef9c4a0b9,Area-51bf0b6d0d854604985055e0f037c6fc,Area-85c073acd9e442f49a63c65a987b85bd,Area-964ea19b4aac4c7b8096b304eca69d0e,Area-b98f64c58f7641369bf22b043ca9a7aa,Area-c6917ee421d74bcfa078d8790a793638",
+        "Permissions": "manage:users,read:areas,write:customers,write:areas,read:pcos,read:customers,write:pcos"
+    }
+}
